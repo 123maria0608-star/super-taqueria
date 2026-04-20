@@ -1,0 +1,8 @@
+{
+  "businessName": "Super Taqueria",
+  "businessType": "taqueria",
+  "city": "San Jose, CA",
+  "extraNotes": "make it bilingual",
+  "templateKey": "cafe",
+  "vibeKey": "bold"
+}
